@@ -3,7 +3,7 @@ import { useStateContext } from '../context/StateContext'
 import { BsBagCheckFill } from 'react-icons/bs'
 import Link from 'next/link';
 import { runFireWorks } from '../lib/utils';
-const success = () => {
+const Success = () => {
     const { dispatch } = useStateContext();
 
     useEffect(() => {
@@ -37,4 +37,4 @@ const success = () => {
   )
 }
 
-export default success
+export default Success
