@@ -12,7 +12,7 @@ Features:
     Advanced State Management of the entire application using React Context API, persist state on page reload with useReducer & localStorage.
   </li>
     <li>
-    File-based routing, Data fetching that allows server-side rendering and static generation which makes your websites incredibly optimized (show getServerSideProps,        getStaticPaths, getStaticProps), and you’ll also learn how to use Next.js as a backend endpoint.
+    File-based routing, Data fetching that allows server-side rendering and static generation which makes your websites incredibly optimized (show getServerSideProps,        getStaticPaths, getStaticProps), and using Next.js as a backend endpoint.
   </li>
     <li>
     Integrating Stripe to manage payments, billing email, products, shipping rates, and the entire checkout process.
