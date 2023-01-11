@@ -3,7 +3,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Modern Full Stack ECommerce Application with Next JS, Headless CMS: Sanity.io & third party api: stripe for payments.
 
 ## 
-Open [https://watch-store-pkdgilkrl-hssounz.vercel.app/](https://watch-store-pkdgilkrl-hssounz.vercel.app/) with your browser to see real-time application.
+Open [https://watch-store-mu.vercel.app/](https://watch-store-mu.vercel.app/) with your browser to see real-time application.
 
 ##
 Features:
